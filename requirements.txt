@@ -1,0 +1,8 @@
+streamlit
+transformers
+sentence-transformers
+onnxruntime
+psutil
+numpy
+torch
+gdown
